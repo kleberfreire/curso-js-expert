@@ -61,6 +61,6 @@ class File {
     })
     return users
   }
- }
+}
 
 module.exports = File
