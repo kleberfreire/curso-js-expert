@@ -74,4 +74,5 @@ describe('CarService Suite Tests', () => {
     expect(carService.carRepository.find.calledWithExactly(car.id)).to.be.ok
     expect(result).to.be.deep.equal(expected)
   })
+
 })
