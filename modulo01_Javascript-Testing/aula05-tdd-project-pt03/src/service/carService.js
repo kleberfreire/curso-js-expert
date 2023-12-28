@@ -1,4 +1,4 @@
-const BaseRepository = require('./../repository/base/baseRepository')
+const BaseRepository = require('../repository/base/baseRepository')
 
 class CarService {
   constructor({ cars }) {
