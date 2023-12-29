@@ -1,0 +1,23 @@
+[
+  {
+    "id": "3b5c6d09-b8f2-4230-b6af-f30313e72d1c",
+    "name": "Golf",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "7e8b1100-fb28-4ccf-9dca-d7d58b16e9d0",
+    "name": "A4",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a48f6996-012e-48bf-bf59-513fa5993811",
+    "name": "Sentra",
+    "releaseYear": 2023,
+    "available": true,
+    "gasAvailable": true
+  }
+]
