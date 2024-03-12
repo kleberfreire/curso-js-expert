@@ -1,0 +1,10 @@
+ - DRY -> Dont`t Reapet Yourself - não tenha código duplicado, pensou em criar o código 2x cria uma    função para fácil manutenção e reutilização.  
+ - KISS -> sem complexidade, um código mais simples.
+ - YAGNI -> 'Você não vai precisar disso agora!', não desenvolva features que vc não vai usar agora.
+ - Clean Code -> melhores praticas 
+ - SOLID: 
+   - S (Single Responsibility Principle) -> Cada modulo tem que ter responsabilidade única. 
+   - O (Open/Close Principle) -> O Sistema deve ser aberto para extensão e fechado para modificação.
+   - L (Liskov Substitution Principle) -> As classes filhas poder herdar o comportamento da classe pai e as classes filhas podem sobrescrever um método da classe pai se necessário.
+   - I (Interface Segregation Principle) -> Clientes não devem ser forçados a depender de uma classe que eles não usam.
+   - D (Dependency Inversion Principle) -> As dependências de nossas classes devem depender de abstrações em vez de implementações
