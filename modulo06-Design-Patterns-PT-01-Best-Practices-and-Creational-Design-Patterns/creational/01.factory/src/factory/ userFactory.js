@@ -8,6 +8,8 @@ class UseFactory {
     const dbConnection = await db.connect();
     const userRepository = new UserRepository({ dbConnection });
     const useService = new UserService({ userRepository });
+
+    return useService;
   }
 }
 
