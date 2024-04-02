@@ -8,3 +8,8 @@
    - L (Liskov Substitution Principle) -> As classes filhas poder herdar o comportamento da classe pai e as classes filhas podem sobrescrever um método da classe pai se necessário.
    - I (Interface Segregation Principle) -> Clientes não devem ser forçados a depender de uma classe que eles não usam.
    - D (Dependency Inversion Principle) -> As dependências de nossas classes devem depender de abstrações em vez de implementações
+
+  -Factory Design Pattern -> O padrão de design Factory é um padrão de design criacional que fornece uma interface para criar objetos em uma superclasse, mas permite que subclasses alterem o tipo de objetos que serão criados. Ele se enquadra na categoria de padrões criacionais, que lidam com mecanismos de criação de objetos, tentando criar objetos de maneira adequada à situação.
+  -N-Tier Architecture -> e a criação de camadas separadas, exemplo: exposição de instancias, regras de negócios, acesso a dados entre outras. 
+  -Dependency Injection -> 
+  -Creational Patterns -> 
